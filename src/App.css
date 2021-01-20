@@ -31,14 +31,22 @@ div{
   color:black;
   margin:auto;
   font-weight:bold;
-  
-  
 }
+
+
+button{
+  border-radius: 5px;
+}
+
+input{
+  border-radius: 5px;
+}
+
 
 .memepic{
   width:20em;
   height:20em;
-  
+  border-radius: 5px;  
 }
 .memes{
   position:relative;
